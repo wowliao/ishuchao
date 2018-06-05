@@ -1,0 +1,15 @@
+﻿body,html{ padding:1px; margin:5px; color:#333333; font-family:"宋体"; font-size:14px; line-height:150%;}   
+
+a
+{ text-decoration:none} 
+a:hover 
+{background-color:#FF704D;}   /* 鼠标移动到链接上 */
+h2
+{
+	color:black;
+    text-align:center;
+}
+h3,h4,h5,h6,ul,li,dl,dt,dd,form,img,p,label
+{margin:1px; padding:5px; border:none; list-style-type:none;}    
+
+
